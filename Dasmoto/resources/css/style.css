@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+p,
+#id {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+h2 {
+  font-size: 32px;
+  color: white;
+}
+#price {
+  color: blue;
+}
+p {
+  font-weight: normal;
+}
